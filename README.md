@@ -1,2 +1,2 @@
 # Scripts
-Shorts scripts python
+Short scripts python
